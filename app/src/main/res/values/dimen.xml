@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="list_height">90dp</dimen>
+    <dimen name="image_height">300dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="padding_left">50dp</dimen>
+    <dimen name="image_icon">30dp</dimen>
+    <dimen name="name">40dp</dimen>
+    <dimen name="relative_list">60dp</dimen>
+
+</resources>

@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Fremont Guide</string>
+
+
+
+    <string name="parks">Parks</string>
+    <string name="food">Food</string>
+    <string name="hotels">Hotels</string>
+    <string name="funAndGames">Fun &amp; Games</string>
+    <string name="satomi_sushi">Satomi Sushi</string>
+    <string name="satomi_address">3655 Thornton Ave.</string>
+    <string name="satomi_phone">510-792-0700</string>
+    <string name="federico_grill"><![CDATA[Federicos\' Grill & Catering]]></string>
+    <string name="federico_address">37804 Niles Blvd</string>
+    <string name="federico_phone">510-320-5354</string>
+    <string name="afghan_kabob">Fremont Afghan Kabob</string>
+    <string name="afgan_kabob_address">5379 Mowry Ave.</string>
+    <string name="afghan_kabob_phone">510-739-3860</string>
+    <string name="tandoori_pizza">Tandoori Pizza</string>
+    <string name="tandoori_pizza_address">35760 Fremont Blvd.</string>
+    <string name="tandoori_pizza_phone">510-494-5555</string>
+    <string name="bronco_billy">Bronco Billy\'s Pizza Palace</string>
+    <string name="bronco_bill_address">37651 Niles Blvd #2947</string>
+    <string name="bronco_billy_phone">510-792-1070</string>
+    <string name="century_theaters">Century Theaters at Pacific Commons</string>
+    <string name="century_theater_address">43917 Pacific Commons Blvd.</string>
+    <string name="centur_theather_phone">1-800-326-3264</string>
+    <string name="made_up_theater">Made Up Theather</string>
+    <string name="made_up_theater_address">4000 Bay St, Suite B.</string>
+    <string name="made_up_theater_phone">510-573-3633</string>
+    <string name="cloverleaf">Cloverleaf Family Bowl</string>
+    <string name="cloverleaf_address">40645 Fremont Blvd.</string>
+    <string name="cloverleaf_phone">510-656-4411</string>
+    <string name="rockin_jump">Rockin’ Jump</string>
+    <string name="rockin_jump_address">39177 Farwell Dr.</string>
+    <string name="rockin_jump_phone">510-246-3098</string>
+    <string name="campo_bocce">Campo Di Bocce of Fremont</string>
+    <string name="campo_bocce_address">4020 Technology Pl.</string>
+    <string name="campo_bocce_phone">510-651-2500</string>
+    <string name="hyatt_place">Hyatt Place Fremont</string>
+    <string name="hyatt_place_address">3101 W Warren Ave.</string>
+    <string name="hyatt_place_phone">510-623-6000</string>
+    <string name="marriot">Courtyard by Marriott</string>
+    <string name="marriot_address">47000 Lakeview Blvd.</string>
+    <string name="marriot_phone">510-656-1800</string>
+    <string name="mission_peak">Mission Peak</string>
+    <string name="mission_peak_address">43600 Mission Blvd.</string>
+    <string name="central_park">Central Park</string>
+    <string name="central_park_address">40000 Paseo Padre Pkwy.</string>
+    <string name="central_park_phone">510-790-5541</string>
+    <string name="centerville_park">Centerville Community Park</string>
+    <string name="centerville_address">3355 Country Dr.</string>
+    <string name="centerville_phone">510-791-4324</string>
+
+</resources>

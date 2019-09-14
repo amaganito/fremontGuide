@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="100dp"
+    android:id="@+id/layoutTest"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageTest"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/image_height"
+        android:src="@drawable/mission_peak"
+        android:visibility="gone"
+        />
+
+
+    <TextView
+        android:id="@+id/location_name"
+        android:layout_width="match_parent"
+        android:paddingLeft="@dimen/padding"
+        android:paddingBottom="@dimen/padding"
+        android:layout_height="@dimen/name"
+        android:gravity="bottom"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        tools:text="Mission Peak" />
+
+
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:paddingLeft="@dimen/padding"
+    android:layout_height="@dimen/relative_list">
+
+    <ImageView
+        android:id="@+id/phoneIcon"
+        android:layout_width="@dimen/image_icon"
+        android:layout_height="@dimen/image_icon"
+        android:layout_below="@id/locationIcon"
+        android:src="@drawable/baseline_phone_black_18"
+        android:layout_weight="1" />
+
+
+    <ImageView
+        android:id="@+id/locationIcon"
+        android:layout_width="@dimen/image_icon"
+        android:layout_height="@dimen/image_icon"
+        android:layout_weight="1"
+        android:src="@drawable/baseline_location_city_black_18" />
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:id="@+id/address"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/image_icon"
+            android:paddingLeft="@dimen/padding_left"
+            android:gravity="bottom"
+            android:textSize="20sp"
+            android:textAppearance="?android:textAppearanceMedium"
+            tools:text="1234 Standford Way" />
+
+        <TextView
+            android:id="@+id/phone_number"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/image_icon"
+            android:paddingLeft="@dimen/padding_left"
+            android:layout_below="@+id/address"
+            android:gravity="bottom"
+            android:textSize="20sp"
+            tools:text="5109999" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
+
+</LinearLayout>
